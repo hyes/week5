@@ -12,8 +12,6 @@ namespace week5lab3
 			Random random = new Random ();
 			int a = random.Next (1, 99);
 
-			Console.WriteLine (a);	//to be deleted
-
 			int check = 0;
 
 			for (int i = 0; i < 6; i++) {
